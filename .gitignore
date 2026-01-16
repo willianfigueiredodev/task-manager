@@ -1,12 +1,9 @@
 __pycache__/
-*.py[cod]
-
+*.py[cod]git branch -M main
 .env
 .venv
 env/
 venv/
-
 postgres_data/
-
 .DS_Store
 Thumbs.db
