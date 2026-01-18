@@ -5,10 +5,6 @@
 ![Project Status](https://img.shields.io/badge/status-completed-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-## 📸 Screenshots
-
-*(Coloque aqui prints do projeto: Tela de Onboarding, Modo Escuro e Modo Claro)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as melhores práticas de mercado, separando responsabilidades entre Backend e Frontend.
